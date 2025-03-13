@@ -211,8 +211,79 @@
             { "id": "", "power": "" },
             { "id": "", "power": "" }
           ]
+        },
+        {
+          "id": "A02-C05",
+          "pdus": [
+            { "id": "RPDU A-37", "power": "" },
+            { "id": "PDU B-25", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A02-C06",
+          "pdus": [
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A02-C07",
+          "pdus": [
+            { "id": "PDU B1-21", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A02-C08",
+          "pdus": [
+            { "id": "PDU A1-19", "power": "" },
+            { "id": "PDU A-15", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A02-C09",
+          "pdus": [
+            { "id": "PDU B1-09", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A02-C10",
+          "pdus": [
+            { "id": "PDU B2-51,53", "power": "" },
+            { "id": "PDU A1-21", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A02-C11",
+          "pdus": [
+            { "id": "PDU B1-05", "power": "" },
+            { "id": "PDU E2-35,37", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A02-C12",
+          "pdus": [
+            { "id": "PDU A1-01", "power": "" },
+            { "id": "PDU B1-07", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
         }
-        
       ]
     },
     {
