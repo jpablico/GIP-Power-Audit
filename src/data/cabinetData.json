@@ -9,36 +9,28 @@
           "id": "A01-C01",
           "pdus": [
             { "id": "PDU A1-33", "power": "" },
-            { "id": "PDU B1-23", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "PDU B1-23", "power": "" }
           ]
         },
         {
           "id": "A01-C02",
           "pdus": [
             { "id": "PDU A1-31", "power": "" },
-            { "id": "PDU B1-39", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "PDU B1-39", "power": "" }
           ]
         },
         {
           "id": "A01-C03",
           "pdus": [
             { "id": "PDU A1-35", "power": "" },
-            { "id": "PDU B2-46", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "PDU B2-46", "power": "" }
           ]
         },
         {
           "id": "A01-C04",
           "pdus": [
             { "id": "PDU A1-29", "power": "" },
-            { "id": "PDU B1-33", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "PDU B1-33", "power": "" }
           ]
         },
         {
@@ -54,63 +46,47 @@
           "id": "A01-C06",
           "pdus": [
             { "id": "PDU A1-23", "power": "" },
-            { "id": "PDU B1-17", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "PDU B1-17", "power": "" }
           ]
         },
         {
           "id": "A01-C07",
           "pdus": [
             { "id": "PDU B1-19", "power": "" },
-            { "id": "PDU A1-11", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "PDU A1-11", "power": "" }
           ]
         },
         {
           "id": "A01-C08",
           "pdus": [
             { "id": "PDU A1-17", "power": "" },
-            { "id": "PDU B1-29", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "PDU B1-29", "power": "" }
           ]
         },
         {
           "id": "A01-C09",
           "pdus": [
-            { "id": "PDU A1-21", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "PDU A1-21", "power": "" }
           ]
         },
         {
           "id": "A01-C10",
           "pdus": [
-            { "id": "RPP I4-21,22", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "RPP I4-21,22", "power": "" }
           ]
         },
         {
           "id": "A01-C11",
           "pdus": [
             { "id": "PDU H1-30,31", "power": "" },
-            { "id": "RPP I1-11,12", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "RPP I1-11,12", "power": "" }
           ]
         },
         {
           "id": "A01-C12",
           "pdus": [
             { "id": "PDU A1-13", "power": "" },
-            { "id": "PDU C4-02", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "PDU C4-02", "power": "" }
           ]
         },
         {
@@ -126,54 +102,42 @@
           "id": "A01-C14",
           "pdus": [
             { "id": "PDU A2-61,63", "power": "" },
-            { "id": "PDU B1-13,15", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "PDU B1-13,15", "power": "" }
           ]
         },
         {
           "id": "A01-C15",
           "pdus": [
             { "id": "PDU A1-10,12", "power": "" },
-            { "id": "RPP I-1/2", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "RPP I-1/2", "power": "" }
           ]
         },
         {
           "id": "A01-C16",
           "pdus": [
             { "id": "PDU A2-76,78", "power": "" },
-            { "id": "RPP I4-30,31", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "RPP I4-30,31", "power": "" }
           ]
         },
         {
           "id": "A01-C17",
           "pdus": [
             { "id": "PDU A1-20", "power": "" },
-            { "id": "RPP I4-32", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "RPP I4-32", "power": "" }
           ]
         },
         {
           "id": "A01-C18",
           "pdus": [
             { "id": "RPP I1-18", "power": "" },
-            { "id": "PDU H1-1", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "PDU H1-1", "power": "" }
           ]
         },
         {
           "id": "A01-C19",
           "pdus": [
             { "id": "RPP I1-19", "power": "" },
-            { "id": "RPP D2-36,37", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "RPP D2-36,37", "power": "" }
           ]
         },
         {
@@ -188,37 +152,28 @@
         {
           "id": "A02-C02",
           "pdus": [
-            { "id": "PDU A1-04", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "PDU A1-04", "power": "" }
           ]
         },
         {
           "id": "A02-C03",
           "pdus": [
             { "id": "PDU C2-39-41", "power": "" },
-            { "id": "PDU B2-81,83", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "PDU B2-81,83", "power": "" }
           ]
         },
         {
           "id": "A02-C04",
           "pdus": [
             { "id": "RPP D2-07,08", "power": "" },
-            { "id": "PDU C2-35,37", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "PDU C2-35,37", "power": "" }
           ]
         },
         {
           "id": "A02-C05",
           "pdus": [
             { "id": "RPDU A-37", "power": "" },
-            { "id": "PDU B-25", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "PDU B-25", "power": "" }
           ]
         },
         {
@@ -233,10 +188,7 @@
         {
           "id": "A02-C07",
           "pdus": [
-            { "id": "PDU B1-21", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "PDU B1-21", "power": "" }
           ]
         },
         {
@@ -251,10 +203,7 @@
         {
           "id": "A02-C09",
           "pdus": [
-            { "id": "PDU B1-09", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "PDU B1-09", "power": "" }
           ]
         },
         {
@@ -270,16 +219,1080 @@
           "id": "A02-C11",
           "pdus": [
             { "id": "PDU B1-05", "power": "" },
-            { "id": "PDU E2-35,37", "power": "" },
-            { "id": "", "power": "" },
-            { "id": "", "power": "" }
+            { "id": "PDU E2-35,37", "power": "" }
           ]
         },
         {
           "id": "A02-C12",
           "pdus": [
             { "id": "PDU A1-01", "power": "" },
-            { "id": "PDU B1-07", "power": "" },
+            { "id": "PDU B1-07", "power": "" }
+          ]
+        },
+        {
+          "id": "A02-C13",
+          "pdus": [
+            { "id": "PDU A1-03", "power": "" }
+          ]
+        },
+        {
+          "id": "A02-C14",
+          "pdus": [
+            { "id": "RPP I4-28,29", "power": "" },
+            { "id": "RPP D1-35-36", "power": "" }
+          ]
+        },
+        {
+          "id": "A02-C15",
+          "pdus": [
+            { "id": "PDU B1-76-78", "power": "" },
+            { "id": "RPP I3-3/4", "power": "" }
+          ]
+        },
+        {
+          "id": "A02-C16",
+          "pdus": [
+            { "id": "PDU G1-2", "power": "" },
+            { "id": "PDU H1-2", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A02-C17",
+          "pdus": [
+            { "id": "PDU B1-22,24", "power": "" },
+            { "id": "RPP I4-34,35", "power": "" }
+          ]
+        },
+        {
+          "id": "A02-C18",
+          "pdus": [
+            { "id": "PDU A-73/75", "power": "" },
+            { "id": "RPP I1-5/6", "power": "" }
+          ]
+        },
+        {
+          "id": "A02-C19",
+          "pdus": [
+            { "id": "PDU A1-28,30", "power": "" },
+            { "id": "RPP I4-09,10", "power": "" }
+          ]
+        },
+        {
+          "id": "A02-C20",
+          "pdus": [
+            { "id": "PDU A1-22,24", "power": "" },
+            { "id": "RPP I1-09,10", "power": "" }
+          ]
+        },
+        {
+          "id": "A02-C21",
+          "pdus": [
+            { "id": "PDU A2-43,45,47", "power": "" },
+            { "id": "PDU B2-43,45,47", "power": "" }
+          ]
+        },
+        {
+          "id": "A02-C22",
+          "pdus": [
+            { "id": "PDU A2-43,45,47", "power": "" },
+            { "id": "PDU B4-43,45,47", "power": "" }
+          ]
+        },
+        {
+          "id": "A03-C01",
+          "pdus": [
+            { "id": "RPP D1-37,38", "power": "" },
+            { "id": "PDU C4-34,36", "power": "" }
+          ]
+        },
+        {
+          "id": "A03-C02",
+          "pdus": [
+            { "id": "RPP D4-03,04", "power": "" },
+            { "id": "PDU C2-25,27", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A03-C03",
+          "pdus": [
+            { "id": "PDU B-55", "power": "" },
+            { "id": "PDU C1-2", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A03-C04",
+          "pdus": [
+            { "id": "PDU E2-06", "power": "" },
+            { "id": "PDU B2-84", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A03-C05",
+          "pdus": [
+            { "id": "PDU C2-36", "power": "" },
+            { "id": "RPP I4-14", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A03-C06",
+          "pdus": [
+            { "id": "RPP D3-02", "power": "" },
+            { "id": "PDU E3-27", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A03-C07",
+          "pdus": [
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A03-C08",
+          "pdus": [
+            { "id": "PDU B2-73", "power": "" },
+            { "id": "PDU C4-10", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A03-C09",
+          "pdus": [
+            { "id": "PDU A2-48", "power": "" },
+            { "id": "PDU C4-41", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A03-C10",
+          "pdus": [
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A03-C11",
+          "pdus": [
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A03-C12",
+          "pdus": [
+            { "id": "PDU A2-79", "power": "" },
+            { "id": "PDU B2-44", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A03-C13",
+          "pdus": [
+            { "id": "PDU B1-03", "power": "" },
+            { "id": "Add to First", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A04-C01 A",
+          "pdus": [
+            { "id": "RPP D3-12", "power": "" },
+            { "id": "PDU C3-09", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A04-C01 B",
+          "pdus": [
+            { "id": "PDU C3-11", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A04-C02 A",
+          "pdus": [
+            { "id": "PDU C2-01", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A04-C02 B",
+          "pdus": [
+            { "id": "PDU C3-13", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A04-C03 A",
+          "pdus": [
+            { "id": "PDU C2-10", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A04-C03 B",
+          "pdus": [
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A04-C04 A",
+          "pdus": [
+            { "id": "PDU B2-75", "power": "" },
+            { "id": "PDU C3-05", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A04-C04 B",
+          "pdus": [
+            { "id": "PDU E2-13", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A04-C05",
+          "pdus": [
+            { "id": "PDU E2-05", "power": "" },
+            { "id": "PDU C3-07", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A04-C06",
+          "pdus": [
+            { "id": "PDU C2-13", "power": "" },
+            { "id": "PDU B2-57", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A04-C07",
+          "pdus": [
+            { "id": "RPP D3-2", "power": "" },
+            { "id": "PDE E4-22", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A04-C08",
+          "pdus": [
+            { "id": "", "power": "" },
+            { "id": "PDU B2-64", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A04-C09",
+          "pdus": [
+            { "id": "PDU B1-16", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A04-C10 A",
+          "pdus": [
+            { "id": "PDU B1-06", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A04-C10 B",
+          "pdus": [
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A04-C11 A",
+          "pdus": [
+            { "id": "PDU B1-08", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A04-C11 B",
+          "pdus": [
+            { "id": "PDU C3-01", "power": "" },
+            { "id": "PDU E3-17", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A04-C12",
+          "pdus": [
+            { "id": "RPP D3-03", "power": "" },
+            { "id": "PDU G1-11", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A04-C13",
+          "pdus": [
+            { "id": "PDU A2-83", "power": "" },
+            { "id": "PDU B2-63", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A05-C01",
+          "pdus": [
+            { "id": "RPP D1-04", "power": "" },
+            { "id": "PDU C1-10", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A05-C02",
+          "pdus": [
+            { "id": "PDU C3-15", "power": "" },
+            { "id": "PDU E3-22", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A05-C03",
+          "pdus": [
+            { "id": "PDU C2-07", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A05-C04",
+          "pdus": [
+            { "id": "RPP D3-21", "power": "" },
+            { "id": "PDU C3-31", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A05-C05",
+          "pdus": [
+            { "id": "PDU E2-07", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A05-C06 A",
+          "pdus": [
+            { "id": "PDU E3-28", "power": "" },
+            { "id": "PDU E4-40", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A05-C06 B",
+          "pdus": [
+            { "id": "PDU C2-08", "power": "" },
+            { "id": "RPP D3-11", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A05-C07 A",
+          "pdus": [
+            { "id": "PDU E2-11", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A05-C07 B",
+          "pdus": [
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A05-C08",
+          "pdus": [
+            { "id": "RPP I4-19,20", "power": "" },
+            { "id": "PDU G1-09,10", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A05-C09",
+          "pdus": [
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A05-C10",
+          "pdus": [
+            { "id": "RPP D3-29,30", "power": "" },
+            { "id": "PDU C4-18,20", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A05-C11",
+          "pdus": [
+            { "id": "PDU E2-09", "power": "" },
+            { "id": "PDU C1-35", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A05-C12",
+          "pdus": [
+            { "id": "PDU B2-71", "power": "" },
+            { "id": "PDU C1-21", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A05-C13 A",
+          "pdus": [
+            { "id": "PDU E3-31", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A05-C13 B",
+          "pdus": [
+            { "id": "PDU B1-12", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A06-C01",
+          "pdus": [
+            { "id": "PDU E4-02,04", "power": "" },
+            { "id": "PDU C2-21,23", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A06-C02",
+          "pdus": [
+            { "id": "RPP D1-02", "power": "" },
+            { "id": "PDU C3-14", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A06-C03",
+          "pdus": [
+            { "id": "PDU E2-02", "power": "" },
+            { "id": "RPP D3-20", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A06-C04",
+          "pdus": [
+            { "id": "PDU C2-09,11", "power": "" },
+            { "id": "RPP D1-10,11", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A06-C05",
+          "pdus": [
+            { "id": "PDU C3-18", "power": "" },
+            { "id": "RPP D3-10", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A06-C06",
+          "pdus": [
+            { "id": "RPP D4-11,12", "power": "" },
+            { "id": "PDU C4-26,28", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A06-C07",
+          "pdus": [
+            { "id": "RPP D2-34,35", "power": "" },
+            { "id": "PDU C1-11/13", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A06-C08",
+          "pdus": [
+            { "id": "RPP D4-05,06", "power": "" },
+            { "id": "PDU E4-34", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A06-C09",
+          "pdus": [
+            { "id": "PDU E4-38", "power": "" },
+            { "id": "PDU E3-12", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A06-C10",
+          "pdus": [
+            { "id": "RPP D2-11,12", "power": "" },
+            { "id": "PDU C2-28,30", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A06-C11",
+          "pdus": [
+            { "id": "RPP D1-01", "power": "" },
+            { "id": "PDU E1-25", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A06-C12",
+          "pdus": [
+            { "id": "RPP D1-12,13", "power": "" },
+            { "id": "PDU E1-05,07", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A06-C13",
+          "pdus": [
+            { "id": "PDU C1-25", "power": "" },
+            { "id": "RPP D3-31,32", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A07-C01",
+          "pdus": [
+            { "id": "PDU C1-03", "power": "" },
+            { "id": "RPP D2-17", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A07-C02 A",
+          "pdus": [
+            { "id": "PDU C3-42", "power": "" },
+            { "id": "RPP D3-13", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A07-C02 B",
+          "pdus": [
+            { "id": "PDU C3-38", "power": "" },
+            { "id": "RPP D3-05", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A07-C03 A",
+          "pdus": [
+            { "id": "PDU C1-03", "power": "" },
+            { "id": "PDU C1-8", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A07-C03 B",
+          "pdus": [
+            { "id": "RPP D3-26/27", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A07-C04",
+          "pdus": [
+            { "id": "PDU C3-36", "power": "" },
+            { "id": "RPP D1-05", "power": "" },
+            { "id": "PDU E1-14", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A07-C05 A",
+          "pdus": [
+            { "id": "PDU H1-16,17", "power": "" },
+            { "id": "PDU G1-13,14", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A07-C05 B",
+          "pdus": [
+            { "id": "RPP D3-06", "power": "" },
+            { "id": "PDU C3-33", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A07-C06",
+          "pdus": [
+            { "id": "RPP D1-14,15", "power": "" },
+            { "id": "RPP I4-07,08", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A07-C07",
+          "pdus": [
+            { "id": "PDU C1-22", "power": "" },
+            { "id": "RPP D1-32", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A07-C08",
+          "pdus": [
+            { "id": "PDU E4-08,10", "power": "" },
+            { "id": "PDU C1-26,28", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A07-C09",
+          "pdus": [
+            { "id": "PDU C1-37,39", "power": "" },
+            { "id": "RPP D2-31,32.33", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A07-C10",
+          "pdus": [
+            { "id": "RPP D4-36,37", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A07-C11",
+          "pdus": [
+            { "id": "PDU C3-19", "power": "" },
+            { "id": "PDU E3-19", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A07-C12",
+          "pdus": [
+            { "id": "RPP D4-15", "power": "" },
+            { "id": "RPP I4-15", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A08-C0",
+          "pdus": [
+            { "id": "PDU C1-27,29", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A08-C01 A",
+          "pdus": [
+            { "id": "PDU E1-01", "power": "" },
+            { "id": "PDU C2-19", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A08-C01 B",
+          "pdus": [
+            { "id": "PDU E1-23", "power": "" },
+            { "id": "RPP D2-03", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A08-C02",
+          "pdus": [
+            { "id": "PDU C2-14,16", "power": "" },
+            { "id": "PDU E3-37,39", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A08-C03",
+          "pdus": [
+            { "id": "RPP D3-15", "power": "" },
+            { "id": "PDU C1-20", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A08-C04",
+          "pdus": [
+            { "id": "PDU E3-10", "power": "" },
+            { "id": "PDU C1-42", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A08-C05",
+          "pdus": [
+            { "id": "PDU C1-15,17", "power": "" },
+            { "id": "RPP D4-16,17", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A08-CA",
+          "pdus": [
+            { "id": "PDU G1-07,08", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A09-C01",
+          "pdus": [
+            { "id": "PDU C1-32,34", "power": "" },
+            { "id": "RPP D4-13,14", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A09-C02 A",
+          "pdus": [
+            { "id": "PDU C1-24", "power": "" },
+            { "id": "RPP D1-28", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A09-C02 B",
+          "pdus": [
+            { "id": "PDU C3-32", "power": "" },
+            { "id": "RPP D3-23", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A09-C03 B",
+          "pdus": [
+            { "id": "PDU C2-26", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A09-C03 A",
+          "pdus": [
+            { "id": "RPP D2-4", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A09-C04",
+          "pdus": [
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A09-C05",
+          "pdus": [
+            { "id": "PDU C4-07,09", "power": "" },
+            { "id": "RPP D4-31,32", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A09-C06",
+          "pdus": [
+            { "id": "PDU C4-19,21", "power": "" },
+            { "id": "RPP D4-19,20", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A09-C07",
+          "pdus": [
+            { "id": "PDU C4-30,32", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A09-C08",
+          "pdus": [
+            { "id": "PDU C4-25,27", "power": "" },
+            { "id": "RPP D4-07,08", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A09-C09 A",
+          "pdus": [
+            { "id": "RPP D3-33", "power": "" },
+            { "id": "PDU C3-34", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A09-C09 B",
+          "pdus": [
+            { "id": "PDU B1-38", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A09-C10",
+          "pdus": [
+            { "id": "PDU C1-14,16", "power": "" },
+            { "id": "RPP D2-40,41", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A10-A",
+          "pdus": [
+            { "id": "PDU H2-40,41", "power": "" },
+            { "id": "PDU G1-34,35", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A10-B",
+          "pdus": [
+            { "id": "PDU G2-34,35", "power": "" },
+            { "id": "PDU H2-34,35", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A10-C01",
+          "pdus": [
+            { "id": "RPP D2-02", "power": "" },
+            { "id": "PDU C2-12", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A10-C02",
+          "pdus": [
+            { "id": "PDU C2-20", "power": "" },
+            { "id": "RPP D2-30", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A10-C03",
+          "pdus": [
+            { "id": "PDU C3-02,04", "power": "" },
+            { "id": "RPP D1-40,41", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A10-CD",
+          "pdus": [
+            { "id": "PDU C4-31,33", "power": "" },
+            { "id": "RPP D2-05,06", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A10-CE",
+          "pdus": [
+            { "id": "PDU C4-01,03", "power": "" },
+            { "id": "RPP D2-24,25", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A10-CF",
+          "pdus": [
+            { "id": "PDU E3-30,32", "power": "" },
+            { "id": "RPP I3-30,31", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A11-C01",
+          "pdus": [
+            { "id": "RPP D4-09,10", "power": "" },
+            { "id": "RPP I1-07,08", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A11-C02",
+          "pdus": [
+            { "id": "PDU C2-42", "power": "" },
+            { "id": "RPP D2-23", "power": "" },
+            { "id": "RPP D4-01,02", "power": "" },
+            { "id": "RPP I3-13,14", "power": "" }
+          ]
+        },
+        {
+          "id": "A11-C03",
+          "pdus": [
+            { "id": "PDU E3-06,08", "power": "" },
+            { "id": "PDU A2-44,45,46", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A12-C01",
+          "pdus": [
+            { "id": "PDU E1-32,34,36", "power": "" },
+            { "id": "PDU E1-26,28,30", "power": "" },
+            { "id": "RPP D4-25,26,27", "power": "" },
+            { "id": "RPP D4-28,29,30", "power": "" }
+          ]
+        },
+        {
+          "id": "A12-C02",
+          "pdus": [
+            { "id": "RPP D4-22,23,24", "power": "" },
+            { "id": "PDU E1-38,40,42", "power": "" },
+            { "id": "", "power": "" },
+            { "id": "", "power": "" }
+          ]
+        },
+        {
+          "id": "A12-C03",
+          "pdus": [
+            { "id": "PDU C1-40", "power": "" },
+            { "id": "RPP D1-03", "power": "" },
             { "id": "", "power": "" },
             { "id": "", "power": "" }
           ]
@@ -396,7 +1409,6 @@
             { "id": "PDU F4-17", "power": "" }
           ]
         }
-        
       ]
     },
     {
@@ -539,7 +1551,6 @@
             { "id": "", "power": "" }
           ]
         }
-        
       ]
     }
   ]
