@@ -39,7 +39,7 @@ const CabinetCardView = ({ cabinets, updatePduPower, markAsChecked, pduCount }) 
                       value={pdu.power} 
                       onChange={(e) => updatePduPower(cabinet.id, idx, e.target.value)}
                       className="w-full p-2 border rounded"
-                      placeholder="Power (kW)"
+                      placeholder="Power (A)"
                       step="0.1"
                       min="0"
                       disabled={cabinet.checked}
@@ -51,7 +51,7 @@ const CabinetCardView = ({ cabinets, updatePduPower, markAsChecked, pduCount }) 
             
             <div className="flex justify-between items-center mt-4">
               <div className="font-medium">
-                Total: <span className="text-lg">{totalPower} kW</span>
+                Total: <span className="text-lg">{totalPower} A</span>
               </div>
               
               {!cabinet.checked ? (

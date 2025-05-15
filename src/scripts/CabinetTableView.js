@@ -44,7 +44,7 @@ const CabinetTableView = ({ cabinets, updatePduPower, markAsChecked, pduCount = 
                         value={cabinet.pdus[idx].power} 
                         onChange={(e) => updatePduPower(cabinet.id, idx, e.target.value)}
                         className="w-full p-1 border rounded"
-                        placeholder="kW"
+                        placeholder="A"
                         step="0.1"
                         min="0"
                         disabled={cabinet.checked}
@@ -53,7 +53,7 @@ const CabinetTableView = ({ cabinets, updatePduPower, markAsChecked, pduCount = 
                   ) : null}
                 </td>
               ))}
-              <td className="py-2 px-3 border-b font-medium">{totalPower} kW</td>
+              <td className="py-2 px-3 border-b font-medium">{totalPower} A</td>
               <td className="py-2 px-3 border-b">
                 {!cabinet.checked ? (
                   <button 
