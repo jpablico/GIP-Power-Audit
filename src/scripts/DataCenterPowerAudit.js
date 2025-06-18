@@ -169,7 +169,6 @@ const DataCenterPowerAudit = () => {
   
   return (
     <div className="p-4 max-w-4xl mx-auto">
-      <h1 className="text-2xl font-bold mb-4 text-center">Data Center Power Audit Tool</h1>
       <div className="text-sm text-gray-500 text-center mb-6">Phase-based PDU power audit system</div>
       
       <PhaseConfiguration 
