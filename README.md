@@ -11,7 +11,7 @@ A lightweight web app designed to streamline cabinet power audits for data cente
 - Responsive design for desktop, tablet, and mobile use
 
 ## Live Demo
-
+![Cover Image](assets/GIP-PowerAuditCover.png)
 View the working version at:  
 https://jpablico.github.io/GIP-Power-Audit
 
