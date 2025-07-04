@@ -44,7 +44,7 @@ const PhaseConfiguration = ({
             <option value="22:00">10:00 PM</option>
           </select>
         </div>
-        <div>
+        <div className="md:col-span-2">
           <label className="block mb-1">Auditor Name</label>
           <input 
             type="text" 
