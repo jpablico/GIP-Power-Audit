@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 const PhaseConfiguration = ({ 
   phases, 
@@ -6,7 +6,9 @@ const PhaseConfiguration = ({
   auditorName, 
   setAuditDate, 
   setAuditorName,
-  cabinets
+  cabinets,
+  auditTime,
+  setAuditTime
 }) => {
   const getCabinetCount = (phaseId) => {
     const phaseData = cabinets.find(p => p.phaseId === phaseId);
@@ -26,6 +28,21 @@ const PhaseConfiguration = ({
             onChange={(e) => setAuditDate(e.target.value)}
             className="w-full p-2 border rounded"
           />
+        </div>
+        <div>
+          <label className="block mb-1">Time</label>
+          <select
+            value={auditTime}
+            onChange={(e) => setAuditTime(e.target.value)}
+            className="w-full p-2 border rounded"
+          >
+            <option value="02:00">2:00 AM</option>
+            <option value="06:00">6:00 AM</option>
+            <option value="10:00">10:00 AM</option>
+            <option value="14:00">2:00 PM</option>
+            <option value="18:00">6:00 PM</option>
+            <option value="22:00">10:00 PM</option>
+          </select>
         </div>
         <div>
           <label className="block mb-1">Auditor Name</label>
